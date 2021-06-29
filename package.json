@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-portfolio",
+  "version": "0.0.1",
+  "description": "my portfolio",
+  "main": "index.js",
+  "authors": {
+    "name": "Fiona Wang",
+    "email": "fy800328@gmail.com"
+  },
+  "repository": "/vuepress-portfolio",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
